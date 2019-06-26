@@ -1,6 +1,6 @@
 # Angular
 
-> **・Angular Material** - AngularでMaterial Designのcssフレームワークを使うためのコンポーネント。
+> **・Angular Material** - AngularでMaterial Designのcssフレームワークを使うためのコンポーネント。<br>
 > __・Flex-layout__ -  レイアウトを調整する手段
 
 
